@@ -23,6 +23,7 @@
     "react-dom": "19.0.0-rc-65a56d0e-20241020",
     "react-sortablejs": "^6.1.4",
     "react-spinners": "^0.14.1",
+    "react-sweetalert2": "^0.6.0",
     "sortablejs": "^1.15.3"
   },
   "devDependencies": {
